@@ -1,6 +1,3 @@
-Here is a **moderately sized, human-written README summary** (not too short, not too long) 👇
-
----
 
 ## Project Summary
 
